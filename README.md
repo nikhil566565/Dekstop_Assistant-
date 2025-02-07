@@ -35,7 +35,7 @@ README file for your Dekstop Assistant project using Python :
    pip install wikipedia 
    ```
 
-## 🛠️ Tech Used
+#### 🛠️ Tech Used
 
 - **Python** -  Core programming language
 - **speech_recognition** -  Converts speech to text
