@@ -27,7 +27,7 @@ README file for your Dekstop Assistant project using Python :
    git clone https://github.com/nikhil566565/Dekstop_Assistant-.git
    
 
-2. ***Install the required packages:***
+2. **Install the required packages:**
    ```bash
    pip install speechrecognition 
    pip install pyttsx3 
@@ -35,7 +35,7 @@ README file for your Dekstop Assistant project using Python :
    pip install wikipedia 
    ```
 
-#### 🛠️ Tech Used
+### 🛠️ Tech Used
 
 - **Python** -  Core programming language
 - **speech_recognition** -  Converts speech to text
